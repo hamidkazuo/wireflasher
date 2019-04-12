@@ -1,2 +1,2 @@
 # wireflasher
-Fastboot based Flashing Android Tools CLI by WireFlasher
+Fastboot Flashing Android Tools CLI by WireFlasher

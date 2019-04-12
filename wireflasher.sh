@@ -4,6 +4,6 @@
 #xterm -geometry 99x100 -fa 'Sony Sketch EF' -fs 10 -title 'NewMasterchefLinux DELUXE multilang by IceMan' -e "$PWD/.bin/Xiaomi_tools.cfg; bash"
 
 # Gnome-terminal display 99x100:
-gnome-terminal --geometry=99x100 -x bash -c "$PWD/miflash/xiaomi_tools/xiaomi_tools.cfg; bash"
+gnome-terminal --geometry=99x100 -x bash -c "$PWD/tools/xiaomi/flasher.cfg; bash"
 
 
